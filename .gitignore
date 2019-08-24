@@ -76,3 +76,4 @@ buck-out/
 .merlin
 lib/bs
 lib/ocaml
+/.graphql_ppx_cache
